@@ -10,7 +10,7 @@ RoboJackets, Inc. is a Georgia non-profit corporation that is dedicated to the p
 - [Bylaws](https://drive.google.com/file/d/1Nm9xpIIiznrOYsQsehvWmgUdIhvd08BZ/view)
 
 ## Board of Directors
-The board of directors are volunteer Georgia Tech alumni that provide guidance, oversight, and administrative support to the corporation.
+The board of directors is a group of volunteer Georgia Tech alumni that provide guidance, oversight, and administrative support to the corporation.
 
 - Ryan Strat <small>(President)</small>
 - Jonathan Spalten <small>(Secretary)</small>
@@ -19,7 +19,7 @@ The board of directors are volunteer Georgia Tech alumni that provide guidance, 
 - Jason Gibson
 
 ## Internal Revenue Service Filings
-The corporation will be seeking tax-exempt status from the IRS under Section 501(c)(7). Public documents will be published here after each is approved by the IRS.
+The corporation will be seeking tax exemption from the IRS under Section 501(c)(7). Public documents will be published here after each is approved by the IRS.
 
 - Form 1024
 - Determination Letter
@@ -27,7 +27,7 @@ The corporation will be seeking tax-exempt status from the IRS under Section 501
   - FY2021
 
 ## Contributing
-The corporation is primarily funded by membership dues and does not accept external contributions. To support our mission, please contact [sponsors@robojackets.org](mailto:sponsors@robojackets.org) for information on contributing to the Georgia Tech Foundation, a 501(c)(3) corporation.
+The corporation is primarily funded by membership dues and does not solicit external monetary contributions. To support our mission, please email [sponsors@robojackets.org](mailto:sponsors@robojackets.org) for information on contributing to the [Georgia Tech Foundation](https://www.gtf.gatech.edu), a non-profit 501(c)(3) corporation.
 
 ## Contact
 To reach our board of directors, please email [hello@corporate.robojackets.org](mailto:hello@corporate.robojackets.org).
