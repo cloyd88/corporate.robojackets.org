@@ -1,5 +1,14 @@
 ---
 title: RoboJackets, Inc.
+
+seo:
+  type: Organization
+  links:
+    - https://twitter.com/RoboJackets
+    - https://www.facebook.com/RoboJackets
+    - https://www.instagram.com/robojackets
+    - https://www.youtube.com/RoboJackets
+    - https://github.com/RoboJackets
 ---
 
 ## Purpose

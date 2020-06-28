@@ -2,6 +2,20 @@ theme: jekyll-theme-minimal
 
 title: RoboJackets, Inc.
 description: Dedicated to the promotion, education, and advancement of the field of robotics
+author: RoboJackets
+
+twitter:
+  username: RoboJackets
+  card: summary
+
+social:
+  name: RoboJackets
+  links:
+    - https://twitter.com/RoboJackets
+    - https://www.facebook.com/RoboJackets
+    - https://www.instagram.com/robojackets
+    - https://www.youtube.com/RoboJackets
+    - https://github.com/RoboJackets
 
 # Turn off download links
 show_downloads: false
