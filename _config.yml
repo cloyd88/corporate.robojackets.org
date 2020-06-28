@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+
+title: RoboJackets, Inc.
+description: Dedicated to the promotion, education, and advancement of the field of robotics
+
+# Turn off download links
+show_downloads: false
+
+# Turn off link to repository
+github:
+  is_project_page: false

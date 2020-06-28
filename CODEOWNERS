@@ -1,0 +1,3 @@
+# Require approval from board members for any content changes
+/index.md @RoboJackets/board-of-directors
+/_config.yml @RoboJackets/board-of-directors

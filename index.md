@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+---
+title: RoboJackets, Inc.
+---
 
-You can use the [editor on GitHub](https://github.com/RoboJackets/corporate.robojackets.org/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Purpose
+RoboJackets, Inc. is a Georgia non-profit corporation that is dedicated to the promotion, education, and advancement of the field of robotics. We support hands-on, super-curricular activities at the Georgia Institute of Technology. For more information about our programs, please visit our main website, [RoboJackets.org](https://robojackets.org).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Governance
+- [Articles of Incorporation](#) (to be published when certified by the Georgia Secretary of State)
+- [Bylaws](https://drive.google.com/file/d/1Nm9xpIIiznrOYsQsehvWmgUdIhvd08BZ/view)
 
-### Markdown
+## Board of Directors
+The board of directors are volunteer Georgia Tech alumni that provide guidance and administrative support to the corporation.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Ryan Strat <small>(President)</small>
+- Jonathan Spalten <small>(Secretary)</small>
+- Kristaps Berzinch <small>(Treasurer)</small>
+- Matthew Barulic
+- Jason Gibson
 
-```markdown
-Syntax highlighted code block
+## IRS Filings
+The corporation will be seeking tax-exempt status from the Internal Revenue Service under Section 501(c)(7). Public documents will be published here after each is approved by the IRS. The corporation's fiscal year is from July to June.
 
-# Header 1
-## Header 2
-### Header 3
+- [Form 1024](#)
+- [Determination Letter](#)
+- Form 990-N
+  - [FY2021](#)
 
-- Bulleted
-- List
+## Contact
+To reach our board of directors, please email [hello@corporate.robojackets.org](mailto:hello@corporate.robojackets.org).
 
-1. Numbered
-2. List
+You can also send mail to our registered agent at the below address.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RoboJackets/corporate.robojackets.org/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+RoboJackets, Inc.<br>
+c/o Northwest Registered Agent<br>
+300 Colonial Center Parkway<br>
+Suite 100N<br>
+Roswell, GA 30076
