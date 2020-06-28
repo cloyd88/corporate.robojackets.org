@@ -39,7 +39,7 @@ The corporation will be seeking tax exemption from the IRS under Section 501(c)(
 The corporation is primarily funded by membership dues and does not solicit external monetary contributions. To support our mission, please email [sponsors@robojackets.org](mailto:sponsors@robojackets.org) for information on contributing to the [Georgia Tech Foundation](https://www.gtf.gatech.edu), a non-profit 501(c)(3) corporation.
 
 ## Contact
-To reach our board of directors, please email [hello@corporate.robojackets.org](mailto:hello@corporate.robojackets.org).
+To reach our board of directors, please email [corporate@robojackets.org](mailto:corporate@robojackets.org).
 
 You can also send mail to our registered agent at the below address.
 
