@@ -19,7 +19,7 @@ The board of directors are volunteer Georgia Tech alumni that provide guidance a
 - Jason Gibson
 
 ## IRS Filings
-The corporation will be seeking tax-exempt status from the Internal Revenue Service under Section 501(c)(7). Public documents will be published here after each is approved by the IRS. The corporation's fiscal year is from July to June.
+The corporation will be seeking tax-exempt status from the Internal Revenue Service under Section 501(c)(7). Public documents will be published here after each is approved by the IRS.
 
 - [Form 1024](#)
 - [Determination Letter](#)
