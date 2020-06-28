@@ -26,6 +26,9 @@ The corporation will be seeking tax-exempt status from the Internal Revenue Serv
 - Form 990-N
   - [FY2021](#)
 
+## Contributing
+The corporation is primarily funded by membership dues and does not accept external contributions. To support our mission, please contact [sponsors@robojackets.org](mailto:sponsors@robojackets.org) for information on contributing to the Georgia Tech Foundation, a 501(c)(3) corporation.
+
 ## Contact
 To reach our board of directors, please email [hello@corporate.robojackets.org](mailto:hello@corporate.robojackets.org).
 
