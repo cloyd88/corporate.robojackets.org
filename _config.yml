@@ -21,3 +21,11 @@ show_downloads: false
 # Turn off link to repository
 github:
   is_project_page: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - CODEOWNERS
+  - CNAME
+  - README.md
