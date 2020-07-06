@@ -22,6 +22,9 @@ show_downloads: false
 github:
   is_project_page: false
 
+# Fix PR builds
+repository: RoboJackets/corporate.robojackets.org
+
 exclude:
   - Gemfile
   - Gemfile.lock
