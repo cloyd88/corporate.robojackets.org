@@ -50,7 +50,7 @@ To reach our board of directors, please email [corporate@robojackets.org](mailto
 You can also send mail to our registered agent at the below address.
 
 RoboJackets, Inc.<br>
-c/o Northwest Registered Agent<br>
+c/o Northwest Registered Agent Service, Inc.<br>
 300 Colonial Center Parkway<br>
 Suite 100N<br>
 Roswell, GA 30076
