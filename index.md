@@ -15,7 +15,7 @@ seo:
 RoboJackets, Inc. is a Georgia non-profit corporation that is dedicated to the promotion, education, and advancement of the field of robotics. We support hands-on, super-curricular activities at the Georgia Institute of Technology. For more information about our programs, please visit our main website, [RoboJackets.org](https://robojackets.org).
 
 ## Governance
-- Articles of Incorporation (to be published when certified by the Georgia Secretary of State)
+- [Articles of Incorporation](https://drive.google.com/file/d/1OcqHgg6gsmm7M0igoncS3_vZkH_1u93N/view)
 - [Bylaws](https://drive.google.com/file/d/1Nm9xpIIiznrOYsQsehvWmgUdIhvd08BZ/view)
 
 ## Board of Directors
@@ -50,7 +50,7 @@ To reach our board of directors, please email [corporate@robojackets.org](mailto
 You can also send mail to our registered agent at the below address.
 
 RoboJackets, Inc.<br>
-c/o Northwest Registered Agent<br>
+c/o Northwest Registered Agent Service, Inc.<br>
 300 Colonial Center Parkway<br>
 Suite 100N<br>
 Roswell, GA 30076
