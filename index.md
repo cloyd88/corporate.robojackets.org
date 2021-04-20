@@ -35,6 +35,7 @@ The board of directors has regular meetings in the first month of each quarter. 
 - [October 3rd, 2020](https://drive.google.com/file/d/1pmLqBVuKeDCP1CiM2yEgTq1wao_JxC3e/view)
 - [December 11th, 2020](https://drive.google.com/file/d/1s2VwBrz_Rm5XIkXq-zzHcbe6Rn9Lu8wZ/view)
 - [January 10th, 2021](https://drive.google.com/file/d/1Qn8lSbYW0-QlOJDbYjOnjvfZ577oi5n3/view)
+- [April 20th, 2021](https://drive.google.com/file/d/1Dzz-PpX8QZ9XXX7XP_Xx0P8qQtCpJMLX/view)
 
 ## Internal Revenue Service Filings
 The corporation will be seeking tax exemption from the IRS under Section 501(c)(7). Public documents will be published here after each is approved by the IRS.
