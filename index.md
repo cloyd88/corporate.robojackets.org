@@ -12,14 +12,14 @@ seo:
 ---
 
 ## Purpose
-RoboJackets, Inc. is a Georgia non-profit corporation that is dedicated to the promotion, education, and advancement of the field of robotics. We support hands-on, super-curricular activities at the Georgia Institute of Technology. For more information about our programs, please visit our main website, [RoboJackets.org](https://robojackets.org).
+RoboJackets, Inc. is a Georgia non-profit 501(c)(7) corporation dedicated to the promotion, education, and advancement of the field of robotics. We support hands-on, super-curricular activities at the Georgia Institute of Technology. For more information about our programs, please visit our main website, [RoboJackets.org](https://robojackets.org).
 
 ## Governance
 - [Articles of Incorporation](https://drive.google.com/file/d/1OcqHgg6gsmm7M0igoncS3_vZkH_1u93N/view)
 - [Bylaws](https://drive.google.com/file/d/1Nm9xpIIiznrOYsQsehvWmgUdIhvd08BZ/view)
 
-## Board of Directors
-The board of directors is a group of volunteer Georgia Tech alumni that provide guidance, oversight, and administrative support to the corporation.
+## Officers and Directors
+The board of directors is a group of volunteer Georgia Tech alumni that provide guidance, oversight, and administrative support to the corporation. Officer positions are noted in parentheses.
 
 - Ryan Strat <small>(President)</small>
 - Jonathan Spalten <small>(Secretary)</small>
@@ -37,13 +37,11 @@ The board of directors has regular meetings in the first month of each quarter. 
 - [January 10th, 2021](https://drive.google.com/file/d/1Qn8lSbYW0-QlOJDbYjOnjvfZ577oi5n3/view)
 - [April 20th, 2021](https://drive.google.com/file/d/1Dzz-PpX8QZ9XXX7XP_Xx0P8qQtCpJMLX/view)
 
-## Internal Revenue Service Filings
-The corporation will be seeking tax exemption from the IRS under Section 501(c)(7). Public documents will be published here after each is approved by the IRS.
+## Internal Revenue Service Documents
+The IRS has determined we are exempt from federal income tax under IRC Section 501(c)(7). You may view our application and determination letter below.
 
-- Form 1024
-- Determination Letter
-- Form 990
-  - FY2021
+- [Form 1024](https://drive.google.com/file/d/1nmLuJcVOq79W_DozCqRSSE36UIuJWmJb/view)
+- [Letter 948](https://drive.google.com/file/d/1JibB0Ob3ffuDw0bGXW1sJKUb8nia7gx9/view)
 
 ## Contributing
 The corporation is primarily funded by membership dues and does not solicit external monetary contributions. To support our mission, please email [sponsors@robojackets.org](mailto:sponsors@robojackets.org) for information on contributing to the [Georgia Tech Foundation](https://www.gtf.gatech.edu), a non-profit 501(c)(3) corporation.
