@@ -36,6 +36,7 @@ The board of directors has regular meetings in the first month of each quarter. 
 - [December 11th, 2020](https://drive.google.com/file/d/1s2VwBrz_Rm5XIkXq-zzHcbe6Rn9Lu8wZ/view)
 - [January 10th, 2021](https://drive.google.com/file/d/1Qn8lSbYW0-QlOJDbYjOnjvfZ577oi5n3/view)
 - [April 20th, 2021](https://drive.google.com/file/d/1Dzz-PpX8QZ9XXX7XP_Xx0P8qQtCpJMLX/view)
+- [July 10th, 2021](https://drive.google.com/file/d/1OuhhnvW1XpgzmbM9TA-lEkez92amMdxX/view)
 
 ## Internal Revenue Service Documents
 The IRS has determined we are exempt from federal income tax under IRC Section 501(c)(7). You may view our application and determination letter below.
