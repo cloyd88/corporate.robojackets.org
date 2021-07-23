@@ -1,4 +1,4 @@
-remote_theme: pages-themes/minimal
+theme: jekyll-theme-minimal
 
 title: RoboJackets, Inc.
 description: Dedicated to the promotion, education, and advancement of the field of robotics
