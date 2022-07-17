@@ -21,11 +21,17 @@ RoboJackets, Inc. is a Georgia non-profit 501(c)(7) corporation dedicated to the
 ## Officers and Directors
 The board of directors is a group of volunteer Georgia Tech alumni that provide guidance, oversight, and administrative support to the corporation. Officer positions are noted in parentheses.
 
-- Ryan Strat <small>(President)</small>
-- Jonathan Spalten <small>(Secretary)</small>
+### Officers
+- Jonathan Spalten <small>(President)</small>
+- Cameron Loyd <small>(Secretary)</small>
 - Kristaps Berzinch <small>(Treasurer)</small>
+
+### Directors
 - Matthew Barulic
-- Jason Gibson
+- Cameron Loyd
+- Joseph Spall
+- Jonathan Spalten
+- Ryan Strat
 
 ## Meeting Minutes
 The board of directors has regular meetings in the first month of each quarter. Minutes will be published here after each meeting.
