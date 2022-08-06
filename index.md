@@ -55,7 +55,7 @@ The IRS has determined we are exempt from federal income tax under IRC Section 5
 - [Letter 948](https://drive.google.com/file/d/1JibB0Ob3ffuDw0bGXW1sJKUb8nia7gx9/view)
 - Form 990
   - [Form 990-N for the fiscal year ending June 30th, 2021](https://drive.google.com/file/d/1HUBCrdszGFcEJtzuse-BWAj1YhISb95c/view) <small>(<abbr title="Due to a clerical error, this filing lists Kristaps Berzinch as the principal officer. The correct principal officer is Ryan Strat. The IRS does not accept revisions to filed 990N forms.">erratum</abbr>)</small>
-  - [Form 990-N for the fiscal year ending June 30th, 2022](https://drive.google.com/file/d/1KruBZ-fpZ8f2e1NBy_nXSVO-NArjDjkj/view)
+  - [Form 990-N for the fiscal year ending June 30th, 2022](https://drive.google.com/file/d/1KruBZ-fpZ8f2e1NBy_nXSVO-NArjDjkj/view) and [filing receipt](https://drive.google.com/file/d/1VYMYZHHloVIualDyDy-QGf9ytly3E8g5/view)
 
 ## Contributing
 The corporation is primarily funded by membership dues and does not solicit external monetary contributions. To support our mission, please email [sponsors@robojackets.org](mailto:sponsors@robojackets.org) for information on contributing to the [Georgia Tech Foundation](https://www.gtf.gatech.edu), a non-profit 501(c)(3) corporation.
