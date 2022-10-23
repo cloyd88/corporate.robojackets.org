@@ -47,6 +47,7 @@ The board of directors has regular meetings in the first month of each quarter. 
 - [January 29th, 2022](https://drive.google.com/file/d/1TQgcQba7Qb1s39WXvSEfw4GH6gPsBUTN/view)
 - [April 24th, 2022](https://drive.google.com/file/d/11LEE3Y9gRhjXOOZe9FxKCUmsiDRnWntG/view)
 - [July 17th, 2022](https://drive.google.com/file/d/1Y4CEsJlOIqmRqNE9EwtLBWKqfPzaaEoK/view) 
+- [October 23rd, 2022](https://drive.google.com/file/d/1kdigwiYBl-rMQz5LS17uOKsffkniOsxL/view)
 
 ## Internal Revenue Service Documents
 The IRS has determined we are exempt from federal income tax under IRC Section 501(c)(7). You may view our application and determination letter below.
