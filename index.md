@@ -19,7 +19,7 @@ RoboJackets, Inc. is a Georgia non-profit 501(c)(7) corporation dedicated to the
 - [Bylaws](https://drive.google.com/file/d/1Nm9xpIIiznrOYsQsehvWmgUdIhvd08BZ/view)
 
 ## Officers and Directors
-The board of directors is a group of volunteer Georgia Tech alumni that provide guidance, oversight, and administrative support to the corporation. Officer positions are noted in parentheses.
+The board of directors is a group of volunteer Georgia Tech alumni that provide guidance, oversight, and administrative support to the corporation. Officer positions and director terms are noted in parentheses.
 
 ### Officers
 - Jonathan Spalten <small>(President)</small>
@@ -27,11 +27,11 @@ The board of directors is a group of volunteer Georgia Tech alumni that provide 
 - Kristaps Berzinch <small>(Treasurer)</small>
 
 ### Directors
-- Matthew Barulic
-- Cameron Loyd
-- Joseph Spall
-- Jonathan Spalten
-- Ryan Strat
+- Matthew Barulic <small>(2021-2024)</small>
+- Cameron Loyd <small>(2022-2025)</small>
+- Joseph Spall <small>(2022-2025)</small>
+- Jonathan Spalten <small>(2023-2026)</small>
+- Josh Oldenburg <small>(2023-2026)</small>
 
 ## Meeting Minutes
 The board of directors has regular meetings in the first month of each quarter. Minutes will be published here after each meeting.
@@ -51,6 +51,7 @@ The board of directors has regular meetings in the first month of each quarter. 
 - [November 6th, 2022](https://drive.google.com/file/d/1x-LhXNOhqBSWmd-PadR2h_E38VPDotou/view)
 - [January 22nd, 2023](https://drive.google.com/file/d/1SmQ-2uIKvCyHzeQCj2gmP47hDn1PFzWs/view)
 - [April 23rd, 2023](https://drive.google.com/file/d/1QPhW1bdUEfsS-w6CB12CKPrzKcNDI48F/view)
+- [July 24, 2023](https://drive.google.com/file/d/1cYfTm1S4TY72WKao9NiQULkYy7Hf_1vs/view)
 
 ## Internal Revenue Service Documents
 The IRS has determined we are exempt from federal income tax under IRC Section 501(c)(7). You may view our application and determination letter below.
