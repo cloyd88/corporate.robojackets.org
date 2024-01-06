@@ -73,6 +73,6 @@ You can also send mail to our registered agent at the below address.
 
 RoboJackets, Inc.<br>
 c/o Northwest Registered Agent Service, Inc.<br>
-300 Colonial Center Parkway<br>
-Suite 100N<br>
-Roswell, GA 30076
+8735 Dunwoody Place<br>
+Suite N<br>
+Atlanta, GA 30350
