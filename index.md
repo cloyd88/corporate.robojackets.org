@@ -27,11 +27,11 @@ The board of directors is a group of volunteer Georgia Tech alumni that provide 
 - Kristaps Berzinch <small>(Treasurer)</small>
 
 ### Directors
-- Matthew Barulic <small>(2021-2024)</small>
 - Cameron Loyd <small>(2022-2025)</small>
 - Joseph Spall <small>(2022-2025)</small>
 - Jonathan Spalten <small>(2023-2026)</small>
 - Josh Oldenburg <small>(2023-2026)</small>
+- Matthew Barulic <small>(2024-2027)</small>
 
 ## Meeting Minutes
 The board of directors has regular meetings in the first month of each quarter. Minutes will be published here after each meeting.
@@ -55,6 +55,7 @@ The board of directors has regular meetings in the first month of each quarter. 
 - [October 29, 2023](https://drive.google.com/file/d/1DCPLidNW6m9rWCk2CWqmhube01lxyuJu/view)
 - [January 21, 2024](https://drive.google.com/file/d/1K3cXPLm8TYiBYGDJiyNP5WvVY6QnBc5s/view)
 - [April 20, 2024](https://drive.google.com/file/d/1KxC2_GZpQOzHwGiMHQkJZkZaIC9YbeK_/view)
+- [July 10, 2024](https://drive.google.com/file/d/1oUUDpA8hx9biUY0g7sxI8a7WF6159uSY/view)
 
 ## Internal Revenue Service Documents
 The IRS has determined we are exempt from federal income tax under IRC Section 501(c)(7). You may view our application and determination letter below.
